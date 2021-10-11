@@ -1,0 +1,103 @@
+html{
+    width: 100%;
+    height: 150%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    margin: auto;
+    width: 55%;
+    height: 55%;
+}
+.testata {
+    background-color: #708090;
+    background-image: url(../img/pattern.png);
+    width: 100%;
+    height: 40%;
+    background-size: 30%;
+}
+.logo {
+    margin:auto;
+    width: 50%;
+}
+main{
+    margin: auto;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+a{
+    color: deepskyblue;
+}
+
+.grey {
+    color: grey;
+    text-align: center;
+}
+
+.margin-fix{
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.titolo{
+    margin-bottom: 15px;
+}
+
+.didascalia{ 
+font-size: 11px;
+text-align: left;
+}
+
+.evidenziato{
+background-color: orange;
+}
+
+table{
+    table-layout: fixed;
+    width: 100%;
+    height: auto;
+   
+}
+
+.stiletab{
+    background-color: #708090;
+    color: white;
+    text-align: left;
+}
+
+.blu{
+    background-color: orange;
+}
+
+footer{
+margin-top: 20px;
+margin-bottom: 20px;    
+}
+
+h2{
+color: #708090;
+}
+
+.ad{
+margin-top: 10px;
+position: relative;   
+width: 100%;
+}
+
+div.ad >h2 {
+   
+   position: absolute;
+   color:white;
+   font: bold 22px Georgia;
+   margin-top: 0px;
+   padding:10px;       
+   top: 0px;
+   left: 25px;
+   width: 100%;
+}
+ 
