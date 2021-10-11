@@ -38,3 +38,9 @@ margin-bottom: 0px;
 .titolo{
     margin-bottom: 15px;
 }
+.didascalia{ 
+font-size: 11px;
+}
+.evidenziato{
+background-color: yellow;
+}
