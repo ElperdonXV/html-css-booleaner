@@ -53,9 +53,14 @@ font-size: 11px;
 background-color: yellow;
 }
 
+ul{
+padding-inline-start: 20px;
+}
+
 table{
     table-layout: fixed;
     width: 100%;
+    border-collapse: collapse;
 }
 
 .stiletab{
